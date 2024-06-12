@@ -1,0 +1,1 @@
+{"version":3,"file":"Location.d.ts","sourceRoot":"","sources":["../../src/Types/Location.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,YAAY;IACzB,MAAM,EAAE,MAAM,CAAC;IACf,UAAU,EAAE;QACR,IAAI,EAAE,MAAM,CAAC;QACb,OAAO,EAAE,MAAM,CAAC;QAChB,MAAM,EAAE,MAAM,CAAC;QACf,YAAY,EAAE,MAAM,CAAC;QACrB,YAAY,EAAE,MAAM,CAAA;KACvB,CAAA;CACJ"}
