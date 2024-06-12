@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "An easy pterodactyl manager",
   "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "prepublish": "tsc",
   "mainEntryPointFilePath": "pterodactyl.client/lib/index.d.ts",
   "scripts": {
     "tsc": "tsc && node exemple.js"
